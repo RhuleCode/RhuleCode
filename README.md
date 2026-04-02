@@ -1,7 +1,7 @@
 # Hi there, I'm Nana Kwaku Bentum Rhule 👋
 ###Aspiring Python Developer | Cybersecurity Enthusiast | Tech Innovator
 ## 🎓 About Me
-I am a **Computer Science Student** and tech enthusiast on a mission to build secure, innovative solutions. I don't just want to learn code; I want to understand how it can protect and transform our world.
+I am a **Cybersecurity Student** and tech enthusiast on a mission to build secure, innovative solutions. I don't just want to learn code; I want to understand how it can protect and transform our world.
 
 * 📚 **Current Focus:** Mastering **Python** fundamentals and exploring **Data Structures**.
 * 🛡️ **Cybersecurity:** Studying the art of defense and building resilient systems.
