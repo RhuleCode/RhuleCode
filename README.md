@@ -7,7 +7,7 @@ I am a **Cybersecurity Student** and tech enthusiast on a mission to build secur
 * 🛡️ **Cybersecurity:** Studying the art of defense and building resilient systems.
 * 🚀 **The Goal:** To move beyond the classroom and innovate tech that solves real-world problems.
 * ✍️ **Currently building:** My first Python-based security tools and automation scripts.
-  ## 🛤️ Learning Roadmap (2026-2027)
+  ## 🛤️ Learning Roadmap 
 - [ ] **Python Mastery:** From basic syntax to Object-Oriented Programming (OOP).
 - [ ] **Network Security:** Understanding the layers of the web.
 - [ ] **Open Source:** Making my first contributions to global projects.
